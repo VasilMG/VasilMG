@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VasilMG
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django/DevOps/Java.
-- 💞️ I’m looking to collaborate on Python/Java/DevOps.
+- 👀 I’m interested in Python, JavaScript, DevOps
+- 🌱 I’m currently learning Django/DevOps/JavaScript.
+- 💞️ I’m looking to collaborate on Python/JavaScript/DevOps projects.
 - 📫 How to reach me GitHub.
 
 <!---
