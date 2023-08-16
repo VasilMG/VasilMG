@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasilMG
 - 👀 I’m interested in Python, JavaScript, DevOps
-- 🌱 I’m currently learning Django/DevOps/JavaScript.
+- 🌱 I’m currently learning ReactJS/Lunix System Administration.
 - 💞️ I’m looking to collaborate on Python/JavaScript/DevOps projects.
 - 📫 How to reach me GitHub.
 
